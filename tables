@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Pool", "isAvailable": true },
+    { "id": 2, "name": "English", "isAvailable": true },
+    { "id": 3, "name": "Snooker", "isAvailable": true },
+    { "id": 4, "name": "Russian", "isAvailable": true }
+]
